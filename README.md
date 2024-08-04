@@ -1,5 +1,3 @@
-# Corn-Disease-Classification
-
 # Plant Disease Detection Using Deep Learning
 
 This project aims to detect plant diseases using deep learning techniques. The model is trained on a dataset of plant images and is capable of classifying various plant diseases with a high degree of accuracy.
