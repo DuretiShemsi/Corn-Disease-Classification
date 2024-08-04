@@ -1,0 +1,8 @@
+tenserflow == 2.12.0
+fastapi
+uvicorn
+python-multipart
+pillow
+tenserflow-serving-api==2.12.0
+matplotlib
+numpy
